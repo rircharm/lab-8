@@ -3,3 +3,6 @@
 from collections import Counter; print(Counter(open("file.txt").read().split()).most_common(1))
 Федорченко Роман ППМР1-104
 які методи читання файлу по-рядково використовуються у python?
+Методи:readline(),readlines(),також цикл line in file.
+Бобро Мар'яна ППМР1-102
+Як у python скопіювати вміст одного файлу в інший?
